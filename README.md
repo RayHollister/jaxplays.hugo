@@ -5,15 +5,15 @@
 </p>
 
 <h1 align="center">
-  Doks
+  JaxPlays
 </h1>
 
 <h3 align="center">
-  Modern Documentation Theme
+  JaxPlays
 </h3>
 
 <p align="center">
-  Doks is a Hugo theme for building secure, fast, and SEO-ready documentation websites, which you can easily update and customize.
+  Explore Northeast Florida's rich theatre history with JaxPlays.
 </p>
 
 <p align="center">
